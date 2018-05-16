@@ -1,31 +1,22 @@
 {
-  "countries": [
-    {
-      "id": 1,
-      "name": "Post 1"
-    },
-    {
-      "id": 2,
-      "name": "Post 2"
-    },
-    {
-      "id": 3,
-      "name": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "marcadores": [
+      {
+        "latitude": 40.416875,
+        "longitude": -3.703308,
+        "city": "Madrid",
+        "description": "Puerta del Sol"
+      },
+      {
+        "latitude": 40.417438,
+        "longitude": -3.693363,
+        "city": "Madrid",
+        "description": "Paseo del Prado"
+      },
+      {
+        "latitude": 40.407015,
+        "longitude": -3.691163,
+        "city": "Madrid",
+        "description": "Estación de Atocha"
+      }
+    ]
 }
